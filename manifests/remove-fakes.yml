@@ -1,0 +1,8 @@
+- type: remove
+  path: /instance_groups/name=fake_consumer
+
+- type: remove
+  path: /instance_groups/name=fake_cups_provider
+
+- type: remove
+  path: /instance_groups/name=fake_logs_provider
