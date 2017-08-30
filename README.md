@@ -1,3 +1,5 @@
+**Note:** This release has been renamed. Now consume it from [cf-syslog-drain-release](https://github.com/cloudfoundry/cf-syslog-drain-release). 
+
 # Scalable Syslog Release [![slack.cloudfoundry.org][slack-badge]][loggregator-slack] [![CI Badge][ci-badge]][ci-pipeline]
 
 Scalable syslog is a [Bosh][bosh] release that works in conjunction with
